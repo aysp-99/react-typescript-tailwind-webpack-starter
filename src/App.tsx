@@ -1,3 +1,5 @@
+import "./styles.css";
+
 export const App = () => {
-  return <h1 className="text-5xl text-black">Hello!!!!</h1>;
+  return <h1>Hello!!!!</h1>;
 };
